@@ -1,3 +1,5 @@
+-- Creation of a Database for a fictional company that sells products to various constumers.
+
 CREATE DATABASE office;
 
 CREATE TABLE employee (
