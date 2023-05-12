@@ -1,4 +1,4 @@
--- Creation of a fictional company that sells products to various clients
+-- Creation of a database scheme for a fictional company that sells products to various clients
 
 CREATE DATABASE office;
 
